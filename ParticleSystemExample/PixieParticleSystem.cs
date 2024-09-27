@@ -20,7 +20,7 @@ namespace ParticleSystemExample
 
 		protected override void InitializeConstants()
 		{
-			textureFilename = "circle";
+			textureFilename = "particle";
 			minNumParticles = 2;
 			maxNumParticles = 5;
 			blendState = BlendState.Additive;
